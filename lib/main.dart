@@ -1,4 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_app/common/index.dart';
+import 'package:flutter_app/common/routers/pages.dart';
+import 'package:get/get.dart';
 
 
 void main() {
@@ -11,13 +14,15 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      home: Container(child: Text("hello world."),),
+    return GetMaterialApp(
+      title: "flutter demo",
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        fontFamily: "Poppins",
-        primarySwatch: Colors.orange
+        primarySwatch: Colors.blue
       ),
+      initialRoute: RouteNames.systemSplash,
+      getPages: RoutePages.list,
+      navigatorObservers: [RoutePages.observer],
     );
   }
 
