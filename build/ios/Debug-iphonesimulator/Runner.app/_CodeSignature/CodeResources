@@ -46,7 +46,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		fxF/EwoRVdexDTnNv+PSrWPg+Hg=
+		sZ5uYT/uFjPRSft2JMk3a2gW+rA=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -54,19 +54,35 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		/dPPeEx3lp34z3B2maxMe2rv5ZU=
+		85DaeGw6vAdH9lpgJeiJ2oz6hqU=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
-		oG5/OGn+vw7vp/nu5DUDoZJ4nFc=
+		iohLDcOR8lq968aFa/A7Di7vEsI=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
 		<data>
-		vKJkVIcw+LGHFnKJGwrQwCREv68=
+		mcLrYT4+1nw7Nx/uLPgm4P3/SHU=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/NOTICES.Z</key>
 		<data>
 		rrWs31a0nLGAr44Km3tFHdu0Ovo=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/Montserrat/Montserrat-Bold.ttf</key>
+		<data>
+		BAUtw7hGYJIW3h4MvOwzfGtudPY=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/Montserrat/Montserrat-Light.ttf</key>
+		<data>
+		byGJSoAEklnvcfy6E1IYaVtBtno=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/Montserrat/Montserrat-Medium.ttf</key>
+		<data>
+		a1fRLgGMZDUuIC+O879/Qx922TU=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/Montserrat/Montserrat-Regular.ttf</key>
+		<data>
+		3leqA+SCH9vmw07CyJXotckU6Dc=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/assets/images/1.0x/logo.png</key>
 		<data>
@@ -110,7 +126,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		MNM5mDzsHo/baSFQgYjsJelK3Aw=
+		yOusyxp0vRaX2bbiHTdz23m2MU4=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -317,7 +333,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			P7h5qqeIpbqp8JkKKMjBxJQqKGGy/Io1Vqw4uFhThzE=
+			NzT0zbsBams7O12r/smecYb6HT2upT2smKD4NeASdSM=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -331,21 +347,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UJ/c1ufrqY/xryJbPfCQ5mJtDGy6JHOXG9Vyv466NRs=
+			AJEtUG7Pjxe8GSYpQVsuW8Yfcs/jqZg2tteeCH6MkZk=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Sps95+7JukayebvM0TLjL1LW1VXXndpKp/O8tOm9ZR8=
+			rCTlS+v5cNjKYRitYm8fUjE6jLDKf8pTTHNzVdyi5zk=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zX4DZFvESy3Ue3y2JvUcTsv1Whl6t3JBYotHrBZfviE=
+			41aRkuSEzozf3IAsVcux5J4PRHQo8IJ7nv9uyzK0mY4=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/NOTICES.Z</key>
@@ -353,6 +369,34 @@
 			<key>hash2</key>
 			<data>
 			Ksr7RxlxEC3TZXDiBAIUuGiCk28J4G2pbDJK/MWQV20=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/Montserrat/Montserrat-Bold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			GJrrKFvpnwtY5FTdLcPL80ptuESp7ybrxZCReP93xb4=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/Montserrat/Montserrat-Light.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			46TVaOweGQnXCh7K7el/79tSjQbAWYV4R1b1M5nStkA=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/Montserrat/Montserrat-Medium.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IOv9ZY9VolbWC0+EhJ4AJuS1mZJkk3OO05UscgAhjTM=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/Montserrat/Montserrat-Regular.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3P6N8p5VP71lUhL5QwDLHnBMbNFH+nqYy0vNnrksZwc=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/images/1.0x/logo.png</key>
@@ -429,7 +473,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+1vFvqIbXZ+b8vN3nY0B9PzQzHMbKblwICejmSxvA2U=
+			hxUn6lYd70wMwqXhpax3PPC6bW/TWdaEKIU5szM1COI=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
