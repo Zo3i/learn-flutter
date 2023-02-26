@@ -19,9 +19,8 @@ class MyApp extends StatelessWidget {
     return GetMaterialApp(
       title: "flutter demo",
       debugShowCheckedModeBanner: false,
-      theme: ThemeData(
-        primarySwatch: Colors.blue
-      ),
+      // 样式
+      theme: ConfigService.to.isDarkModel ? AppTheme.dark : AppTheme.light,
       // 路由
       initialRoute: RouteNames.stylesStylesIndex,
       getPages: RoutePages.list,

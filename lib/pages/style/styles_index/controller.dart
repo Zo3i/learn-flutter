@@ -4,6 +4,12 @@ import 'package:get/get.dart';
 class StylesIndexController extends GetxController {
   StylesIndexController();
 
+  // 主题
+  onThemeSelected() async {
+    await ConfigService.to.switchThemeModel();
+    update(["styles_index"]);
+  }
+
   // 多语言
   onLanguageSelected() {
     var en = Translation.supportedLocales[0];

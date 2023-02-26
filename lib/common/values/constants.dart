@@ -4,4 +4,6 @@ class Constants {
   static const storageLanguageCode = 'language_code';
   // 服务器地址
   static const wpApiBaseUrl = 'https://wpapi.ducafecat.tech';
+  // 主题
+  static const storageThemeCode = 'theme_code';
 }
