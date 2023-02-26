@@ -3,11 +3,13 @@ import 'package:flutter_app/common/index.dart';
 import 'package:flutter_app/common/routers/pages.dart';
 import 'package:get/get.dart';
 
+import 'global.dart';
 
-void main() {
+
+Future<void> main() async {
+  await Global.init();
   runApp(const MyApp());
 }
-
 
 class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super (key: key);
