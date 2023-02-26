@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_app/common/services/wp_http.dart';
 import 'package:get/get.dart';
 import 'common/index.dart';
 
@@ -9,7 +10,8 @@ class Global {
     // 工具类
     await Storage().init();
     await Future.wait([
-      Get.putAsync<ConfigService>(() async => await ConfigService().init()),
+      Get.putAsync<ConfigService>(() async => await ConfigService()),
+      Get.putAsync<WPHttpService>(() async => await WPHttpService()),
     ]).whenComplete(() {
     });
   }

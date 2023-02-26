@@ -15,12 +15,6 @@ class ConfigService extends GetxService {
 
   Locale locale = PlatformDispatcher.instance.locale;
 
-  // 初始化
-  Future<ConfigService> init() async {
-    await getPlatform();
-    return this;
-  }
-
   @override
   void onReady() {
     super.onReady();
